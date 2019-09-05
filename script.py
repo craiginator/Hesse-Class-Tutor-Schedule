@@ -144,7 +144,7 @@ for course, shifts in class_hours_sorted.items():
               <head>
                   <meta charset="utf-8">
                   <title>'''+course+''' Tutoring Hours</title>
-                  <meta name="description" content="List of Hours where"'''+course+'''is tutored in the Hesse Center">
+                  <meta name="description" content="List of Hours where '''+course+''' is tutored in the Hesse Center">
                   <meta name="author" content="Valparaiso University Hesse Center -- Designed by Students">
              </head>
              <body>
