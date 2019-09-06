@@ -14,5 +14,7 @@ These files can be found in the 'HTML Output' directory.
 
 To execute the script, simply click on the 'run.bat' file located in this directory.
 
+Up-to-date code can be found at github.com/craiginator/Hesse-Center-Tutor-Schedule
+
 Note: Running this script requires you to have installed Python3 to your computer.
       To install this free software, go to python.org/downloads/windows and select the latest stable release.
